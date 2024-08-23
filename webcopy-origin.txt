@@ -1,0 +1,160 @@
+Uri: https://fonts.bunny.net/css?family=Open Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic:300
+File Name: C:\Downloaded Web Sites\kitamor.com\css
+Content Type: text/css
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-cyrillic-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-cyrillic-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-cyrillic-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-cyrillic-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-cyrillic-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-cyrillic-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-cyrillic-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-cyrillic-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-greek-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-greek-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-greek-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-greek-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-greek-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-greek-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-greek-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-greek-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-hebrew-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-hebrew-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-hebrew-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-hebrew-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-latin-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-latin-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-latin-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-latin-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-latin-ext-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-latin-ext-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-latin-ext-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-latin-ext-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-math-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-math-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-math-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-math-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-symbols-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-symbols-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-symbols-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-symbols-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-vietnamese-400-normal.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-vietnamese-400-normal.woff
+Content Type: font/woff
+
+Uri: https://fonts.bunny.net/open-sans/files/open-sans-vietnamese-400-normal.woff2
+File Name: C:\Downloaded Web Sites\kitamor.com\open-sans\files\open-sans-vietnamese-400-normal.woff2
+Content Type: font/woff2
+
+Uri: https://kitamor.com/
+File Name: C:\Downloaded Web Sites\kitamor.com\index.htm
+Content Type: text/html
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/css/fonts.css?ver=1719258873
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\css\fonts.css
+Content Type: text/css
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/css/style.css?ver=1719258873
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\css\style.css
+Content Type: text/css
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/foundation-icons.eot
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\foundation-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/foundation-icons.eot?
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\foundation-icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/foundation-icons.svg
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\foundation-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/foundation-icons.ttf
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\foundation-icons.ttf
+Content Type: font/ttf
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/fonts/foundation-icons.woff
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\fonts\foundation-icons.woff
+Content Type: font/woff
+
+Uri: https://kitamor.com/wp-content/plugins/maintenance/load/js/jquery.frontend.js?ver=1719258873
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\plugins\maintenance\load\js\jquery.frontend.js
+Content Type: text/javascript
+
+Uri: https://kitamor.com/wp-content/uploads/2024/06/favicon-100x100.png
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\uploads\2024\06\favicon-100x100.png
+Content Type: image/png
+
+Uri: https://kitamor.com/wp-content/uploads/2024/06/favicon-300x300.png
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\uploads\2024\06\favicon-300x300.png
+Content Type: image/png
+
+Uri: https://kitamor.com/wp-content/uploads/2024/06/mt-sample-background.jpg
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-content\uploads\2024\06\mt-sample-background.jpg
+Content Type: image/jpeg
+
+Uri: https://kitamor.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://kitamor.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\kitamor.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
